@@ -1,7 +1,7 @@
 /**
  * CSS files
  */
-import "../../node_modules/bootstrap/less/bootstrap.less";
+import "../../node_modules/bootstrap-less/bootstrap/bootstrap.less";
 import '../css/styles.css';
 
 /**
