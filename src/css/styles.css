@@ -17,9 +17,14 @@ body {
 	min-width: 500px;
 }
 
+.loading-indicator {
+	max-height: 50px;
+	max-width: 50px;
+}
+
 @media only screen and (max-width: 736px) {
 	.form-group {
 		min-width: 90vw;
-		
+
 	}
 }
